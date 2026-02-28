@@ -282,7 +282,7 @@ const About = () => {
               </div>
               <div>
                 <h6 className="font-bold text-gray-900">Get in touch!</h6>
-                <p className="text-red-700 font-bold text-lg sm:text-xl">07702 909 637</p>
+                <p className="text-red-700 font-bold text-lg sm:text-xl">021 237 9909</p>
               </div>
             </div>
           </div>
@@ -467,7 +467,7 @@ const ContactForm = () => {
                 </div>
                 <div>
                   <p className="text-red-200 text-sm uppercase tracking-wider">Call Us</p>
-                  <p className="text-lg sm:text-xl font-bold">07702 909 637</p>
+                  <p className="text-lg sm:text-xl font-bold">021 237 9909</p>
                 </div>
               </div>
               <div className="flex items-center">

@@ -197,7 +197,7 @@ const QuoteModal = ({ isOpen, onClose }: QuoteModalProps) => {
                         value={phone}
                         onChange={(e) => setPhone(e.target.value)}
                         className={`${inputBaseClass} ${errors.phone ? inputErrorClass : inputValidClass}`}
-                        placeholder="07702 909 637"
+                        placeholder="021 237 9909"
                       />
                       {errors.phone && (
                         <p className="mt-1 text-sm text-red-600">{errors.phone}</p>
